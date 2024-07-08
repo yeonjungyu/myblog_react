@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+# Getting Started with My Blog React Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a simple blog built with React.
 
 ## Available Scripts
 
@@ -69,6 +68,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# myblog_react
->>>>>>> e6679a13416f3d1a8b06bc85d7b8369f460f4f1f
